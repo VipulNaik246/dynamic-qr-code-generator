@@ -1,3 +1,4 @@
-qr_data.json
 __pycache__/
-*.pyc--
+*.pyc
+static/qrcodes/
+qr-data.json
